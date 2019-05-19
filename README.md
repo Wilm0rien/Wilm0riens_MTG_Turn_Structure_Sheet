@@ -8,7 +8,7 @@ This project is inspired by [this reddit thread](https://www.reddit.com/r/magicT
 
 # [HTML](http://htmlpreview.github.io/?https://github.com/Wilm0rien/Wilm0riens_MTG_Turn_Structure_Sheet/blob/master/Wilm0riens_MTG_Turn_Structure_Sheet.html)
 
-# [PDF](Wilm0rs_MTG_Turn_Structure_Sheet_V1.0.pdf)
+# [PDF](https://github.com/Wilm0rien/Wilm0riens_MTG_Turn_Structure_Sheet/raw/master/Wilm0rs_MTG_Turn_Structure_Sheet_V1.0.pdf)
 
 ## Disclaimer
 Disclaimer: "Wilm0riens_MTG_Turn_Structure_Sheet" is unofficial Fan Content permitted under the Fan Content Policy. Not approved/endorsed by Wizards. Portions of the materials used are property of Wizards of the Coast. ©Wizards of the Coast LLC.
